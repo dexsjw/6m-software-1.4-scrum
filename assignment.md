@@ -8,13 +8,24 @@ Scenario 1:
 Imagine you are hired by a startup company for a school to implement their IT infrastructure as their IT consultant. in your own words (300 words or less), describe how could implementing Scrum help their IT team improve their productivity.
 
 ```
-Scrum is a way to get work done as a team in small pieces at a time, with continuous experimentation and feedback loops along the way to learn and improve as you go. It helps people and teams deliver value incrementally in a collaborative way. As an agile framework, Scrum provides just enough structure for people and teams to integrate into how they work, while adding the right practices to optimize for their specific needs.
+Scrum is a way to get work done as a team in small pieces at a time, with continuous experimentation and feedback loops along 
+the way to learn and improve as you go. It helps people and teams deliver value incrementally in a collaborative way. As an 
+agile framework, Scrum provides just enough structure for people and teams to integrate into how they work, while adding the 
+right practices to optimize for their specific needs.
 
-Scrum is an empirical process, where decisions are based on observation, experience and experimentation. It has three pillars: transparency, inspection and adaptation. This supports the concept of working iteratively. Think of Empiricism as working through small experiments, learning from that work and adapting both what you are doing and how you are doing it as needed.
+Scrum is an empirical process, where decisions are based on observation, experience and experimentation. It has three pillars: 
+transparency, inspection and adaptation. This supports the concept of working iteratively. Think of Empiricism as working 
+through small experiments, learning from that work and adapting both what you are doing and how you are doing it as needed.
 
-One critical Scrum Team characteristic that binds all of the elements together is Trust. If Trust is not present on a Scrum Team, there will likely be tension and bottlenecks in the way of getting work done. The Scrum Values are also critical for Scrum Teams to adhere to as they help to guide how we work and drive trust. The Scrum Values of Courage, Focus, Commitment, Respect, and Openness, are all important elements that Scrum Team members must consider when working together. The Scrum Values are particularly important in environments where experimentation is core to making progress.
+One critical Scrum Team characteristic that binds all of the elements together is Trust. If Trust is not present on a Scrum 
+Team, there will likely be tension and bottlenecks in the way of getting work done. The Scrum Values are also critical for 
+Scrum Teams to adhere to as they help to guide how we work and drive trust. The Scrum Values of Courage, Focus, Commitment, 
+Respect, and Openness, are all important elements that Scrum Team members must consider when working together. The Scrum Values 
+are particularly important in environments where experimentation is core to making progress.
 
-Increments of valuable work are delivered in short cycles of one month or less, which are called Sprints. Ongoing feedback occurs during the Sprint, allowing for inspection and adaptation of the process and what will be delivered. This will therefore help the IT team to incrementally improve their productivity.
+Increments of valuable work are delivered in short cycles of one month or less, which are called Sprints. Ongoing feedback 
+occurs during the Sprint, allowing for inspection and adaptation of the process and what will be delivered. This will therefore 
+help the IT team to incrementally improve their productivity.
 ```
 
 Scenario 2:
